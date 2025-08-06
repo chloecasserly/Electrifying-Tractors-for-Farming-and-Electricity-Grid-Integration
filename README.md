@@ -1,0 +1,2 @@
+# Electrifying-Tractors-for-Farming-and-Electricity-Grid-Integration
+The team are creating and optimisation that aims to minimise the cost of the implementation of electric tractors on farms that have the ability to implement PV, BESS and the use of electricity arbitrage and FCAS to generate revenue. This repository contains all the versions of code that the team have worked on throughout the project.
